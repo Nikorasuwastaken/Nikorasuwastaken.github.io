@@ -13,8 +13,8 @@ function hidey() {
       <!DOCTYPE html>
       <html>
           <head>
-              <title>Classes</title>
-              <link rel="icon" type="image/png" href="https://https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1605724037/k12albemarleorg/pxew6ig1yrz0zsgw5qet/schoologyicon.jpg">
+              <title>Schoology</title>
+              <link rel="icon" type="image/png" href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1605724037/k12albemarleorg/pxew6ig1yrz0zsgw5qet/schoologyicon.jpg">
           </head>
           <body style="margin: 0">
               <iframe height="100%" width="100%" src="` +
