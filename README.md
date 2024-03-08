@@ -10,4 +10,4 @@ TABHIDER
 
 HYPIXEL SKYBLOCK CALENDER
 
-              <link rel="icon" type="image/png" href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1605724037/k12albemarleorg/pxew6ig1yrz0zsgw5qet/schoologyico
+   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
